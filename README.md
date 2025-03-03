@@ -79,18 +79,13 @@ La documentation de l'API est accessible à l'adresse suivante :
 ```sh
 http://localhost:3000/api-docs
  ```
+## 📄 Licence
 
-## Licence
-
-Ce projet est sous licence WORKETYAMO.
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ## Contribution
 
 Les contributions sont les bienvenues ! Veuillez ouvrir un problème ou soumettre une demande de tirage.
-
-## Auteur
-
-Worketyamo
 
 ## Informations supplémentaires
 
